@@ -1,1 +1,1 @@
-Patika Hepsiburada Frontend Bootcamp - Odev 2
+# Patika Hepsiburada Frontend Bootcamp - Odev 2
