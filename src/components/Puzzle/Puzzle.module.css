@@ -1,0 +1,21 @@
+.puzzle {
+  align-items: center;
+  display: flex;
+  margin-bottom: 4.8rem;
+  justify-content: center;
+}
+
+span {
+  display: inline-block;
+  font-size: 2rem;
+  height: 2.4rem;
+  line-height: 2.4rem;
+  margin: 0 0.1rem;
+  text-align: center;
+  text-transform: uppercase;
+  width: 2.4rem;
+}
+
+.puzzle-space {
+  border-bottom: 1px solid #534f59;
+}

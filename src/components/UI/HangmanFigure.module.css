@@ -1,0 +1,10 @@
+.hangman-container {
+  fill: transparent;
+  stroke: #fff;
+  stroke-width: 3px;
+  stroke-linecap: round;
+}
+
+.hangman-part {
+  display: none;
+}
